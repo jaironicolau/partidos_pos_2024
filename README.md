@@ -24,7 +24,7 @@
 
 - Viscardi, Cláudia Maria Ribeiro, e Lívia Freitas Soares. 2018. “Votos, partidos e eleições na Primeira República: a dinâmica política a partir das charges de ‘O Malho.’” Revista de História (177). 
 
-## Aula 4: Partidos e eleições na Primeira República 
+##  Aula 4: Partidos e eleições na Primeira República 
 
 - Ricci, Paolo, e Jaqueline Porto Zullini. 2023. Almanaque de dados eleitorais: Primeira República (1889-1930). Brasília: TSE.
 
@@ -33,35 +33,36 @@
 - Ricci, Paolo, e Jaqueline Porto Zulini. 2013. “Quem ganhou as eleições? :a validação dos resultados antes da criação da justiça eleitoral.” Revista de Sociologia e Política 21(45): 91–105.
 
 
-Aula 5:  Instituições representativas e quadro político nos anos 1930
+## Aula 5:  Instituições representativas e quadro político nos anos 1930
 
-Karawejczyk, Mônica. 2013. “As Filhas de Eva querem votar: dos primórdios da questão à conquista do sufrágio feminino no Brasil (c.1850-1932).” Tese de Doutorado em História: UFRS.
+- Karawejczyk, Mônica. 2013. “As Filhas de Eva querem votar: dos primórdios da questão à conquista do sufrágio feminino no Brasil (c.1850-1932).” Tese de Doutorado em História: UFRS.
 
-Zulini, Jaqueline Porto, e Paolo Ricci. 2020. “O Código Eleitoral de 1932 e as Eleições da Era Vargas: Um Passo na Direção na Democracia?” Estudos Históricos (Rio de Janeiro) 33(71): 600–623.
+- Zulini, Jaqueline Porto, e Paolo Ricci. 2020. “O Código Eleitoral de 1932 e as Eleições da Era Vargas: Um Passo na Direção na Democracia?” Estudos Históricos (Rio de Janeiro) 33(71): 600–623.
 
-Limongi, Fernando, Juliana de Souza Oliveira, e Stefanie Tomé Schmitt. 2019. “Sufrágio universal, mas... só para homens. O voto feminino no Brasil.” Revista de Sociologia e Política 27(70).
-
-
-Aula 6: Partidos e eleições nos anos 1930
-
-Ricci, Paolo. 2022. “As Eleições Dos Anos 1930: Coordenação Pré-Eleitoral em Tempos de Voto Secreto.” Estudos Históricos (Rio de Janeiro) 35(75): 72–94.
-
-Silva, Thiago, e Estevão Silva. 2015. “Eleições no Brasil antes da democracia: o Código Eleitoral de 1932 e os pleitos de 1933 e 1934.” Revista de Sociologia e Política 23(56): 75–106.
-
-Barbosa, Leonardo Martins. 2022. “A crise da Primeira República e o surgimento da oposição legítima no Brasil.” Estudos Históricos (Rio de Janeiro) 35(75): 95–114.
+- Limongi, Fernando, Juliana de Souza Oliveira, e Stefanie Tomé Schmitt. 2019. “Sufrágio universal, mas... só para homens. O voto feminino no Brasil.” Revista de Sociologia e Política 27(70).
 
 
-Aula 7:  Instituições representativas e quadro político na República de 1946
+## Aula 6: Partidos e eleições nos anos 1930
 
-Souza, Maria do Carmo Campello de. 1976. Estado e partidos políticos no Brasil. São Paulo: Editora Alfa-Ômega.
+- Ricci, Paolo. 2022. “As Eleições Dos Anos 1930: Coordenação Pré-Eleitoral em Tempos de Voto Secreto.” Estudos Históricos (Rio de Janeiro) 35(75): 72–94.
 
-Soares, Gláucio Ary Dillon. 1973. Sociedade e política no Brasil. São Paulo: Difel.
+- Silva, Thiago, e Estevão Silva. 2015. “Eleições no Brasil antes da democracia: o Código Eleitoral de 1932 e os pleitos de 1933 e 1934.” Revista de Sociologia e Política 23(56): 75–106.
 
-Aula 8: Partidos e eleições na República de 1946
+- Barbosa, Leonardo Martins. 2022. “A crise da Primeira República e o surgimento da oposição legítima no Brasil.” Estudos Históricos (Rio de Janeiro) 35(75): 95–114.
 
-Gomes, Ângela de Castro. 1988. A Invenção do Trabalhismo. Rio de Janeiro: Vértice.
 
-Hipólito, Lucia. 1985. PSD: De Raposas e Reformistas. São Paulo: Paz e Terra.
+## Aula 7:  Instituições representativas e quadro político na República de 1946
+
+- Souza, Maria do Carmo Campello de. 1976. Estado e partidos políticos no Brasil. São Paulo: Editora Alfa-Ômega.
+
+- Soares, Gláucio Ary Dillon. 1973. Sociedade e política no Brasil. São Paulo: Difel.
+
+
+## Aula 8: Partidos e eleições na República de 1946
+
+- Gomes, Ângela de Castro. 1988. A Invenção do Trabalhismo. Rio de Janeiro: Vértice.
+
+- Hipólito, Lucia. 1985. PSD: De Raposas e Reformistas. São Paulo: Paz e Terra.
 
 
 Aula 9:  Partidos e eleições na República de 1946
