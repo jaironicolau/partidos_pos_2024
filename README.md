@@ -7,13 +7,13 @@
 ## Aula 2:  Instituições representativas e quadro político na Primeira República
 
 
-- Viscardi, Claudia. 2019. O teatro das oligarquias: uma revisão da politica do café́ com leite. Belo Horizonte: Editora Fino Traço.
+- Viscardi, Claudia. 2019. O teatro das oligarquias: uma revisão da politica do café́ com leite. Belo Horizonte: Editora Fino Traço. (introdução, caps 1, 2, 3, 8 e Conclusão)
 
 - Santos, Wanderley Guilherme Dos. 2013. “O sistema oligárquico representativo da Primeira República.” Dados 56(1): 9–37. 
 
 - Ferreira, Marieta de Moraes, e Surama Conde Sá Pinto. 2017. “Estado e oligarquias na Primeira República: um balanço das principais tendências historiográficas.” Tempo 23(3): 422–442.
 
-- Coser, Ivo. 2015. O conceito de partido no debate político brasileiro 1820-1924: continuidades e rupturas. Ler história 67, 25–45.
+- Coser, Ivo. 2015. O conceito de partido no debate político brasileiro 1820-1924: continuidades e rupturas. Ler história 67, 25–45. (Opcional)
 
 
 ## Aula 3: Partidos e eleições na Primeira República 
