@@ -1,39 +1,43 @@
 # Programa
 
+Os textos amrcados por *** são de leitura obrigatória
+
 
 ## Aula 1: Apresentação do curso
 
 
 ## Aula 2:  Instituições representativas e quadro político na Primeira República
 
+- *** Viscardi, Claudia. 2019. O teatro das oligarquias: uma revisão da politica do café́ com leite. Belo Horizonte: Editora Fino Traço. (introdução, caps 1, 2, 3, 8 e Conclusão)
 
-- Viscardi, Claudia. 2019. O teatro das oligarquias: uma revisão da politica do café́ com leite. Belo Horizonte: Editora Fino Traço.
+- *** Santos, Wanderley Guilherme Dos. 2013. “O sistema oligárquico representativo da Primeira República.” Dados 56(1): 9–37. 
 
-- Santos, Wanderley Guilherme Dos. 2013. “O sistema oligárquico representativo da Primeira República.” Dados 56(1): 9–37. 
+#### Textos Complementares: 
 
 - Ferreira, Marieta de Moraes, e Surama Conde Sá Pinto. 2017. “Estado e oligarquias na Primeira República: um balanço das principais tendências historiográficas.” Tempo 23(3): 422–442.
 
-- Coser, Ivo. 2015. O conceito de partido no debate político brasileiro 1820-1924: continuidades e rupturas. Ler história 67, 25–45.
+- Coser, Ivo. 2015. O conceito de partido no debate político brasileiro 1820-1924: continuidades e rupturas. Ler história 67, 25–45. (Opcional)
 
 
 ## Aula 3: Partidos e eleições na Primeira República 
 
-- Souza, Felipe Azevedo. 2020. “A dissimulada arte de produzir exclusões: as reformas que encolheram o eleitorado brasileiro (1881-1930).” Revista de História (179): 1–35.
+-  Nicolau, Jairo. 2012. Eleições no Brasil: do Império aos dias atuais. Rio de Janeiro: Zahar.  (capitulo sobre a Primeira República para conhecer as regras eleitorais)
 
-- Figueiredo, Vitor Fonseca. 2017. Voto e competição política na primeira república: o caso de Minas Gerais (1889-1930). 1st ed. EDITORA CRV. 
+- Ricci, Paolo, e Jaqueline Porto Zullini. 2023. Almanaque de dados eleitorais: Primeira República (1889-1930). Brasília: TSE. (ênfase nos dados eleitorais e na disputa partidária).
 
-- Viscardi, Cláudia Maria Ribeiro, e Lívia Freitas Soares. 2018. “Votos, partidos e eleições na Primeira República: a dinâmica política a partir das charges de ‘O Malho.’” Revista de História (177). 
+- *** Figueiredo, Vitor Fonseca. 2017. Voto e competição política na primeira república: o caso de Minas Gerais (1889-1930). 1st ed. EDITORA CRV. (Introdução e capitulo 1)
 
-##  Aula 4: Partidos e eleições na Primeira República 
+- *** Ricci, Paolo, e Jaqueline Porto Zulini. 2014. “Partidos, Competição Política e Fraude Eleitoral: A Tônica das Eleições na Primeira República.” Dados 57(2): 443–479. 
 
-- Ricci, Paolo, e Jaqueline Porto Zullini. 2023. Almanaque de dados eleitorais: Primeira República (1889-1930). Brasília: TSE.
-
-- Ricci, Paolo, e Jaqueline Porto Zulini. 2014. “Partidos, Competição Política e Fraude Eleitoral: A Tônica das Eleições na Primeira República.” Dados 57(2): 443–479.
+#### Textos complementares: 
 
 - Ricci, Paolo, e Jaqueline Porto Zulini. 2013. “Quem ganhou as eleições? :a validação dos resultados antes da criação da justiça eleitoral.” Revista de Sociologia e Política 21(45): 91–105.
 
+- Souza, Felipe Azevedo. 2020. “A dissimulada arte de produzir exclusões: as reformas que encolheram o eleitorado brasileiro (1881-1930).” Revista de História (179): 1–35.
 
-## Aula 5:  Instituições representativas e quadro político nos anos 1930
+- Viscardi, Cláudia Maria Ribeiro, e Lívia Freitas Soares. 2018. “Votos, partidos e eleições na Primeira República: a dinâmica política a partir das charges de ‘O Malho.’” Revista de História (177).
+
+## Aula 4:  Instituições representativas e quadro político nos anos 1930
 
 - Karawejczyk, Mônica. 2013. “As Filhas de Eva querem votar: dos primórdios da questão à conquista do sufrágio feminino no Brasil (c.1850-1932).” Tese de Doutorado em História: UFRS.
 
