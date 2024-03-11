@@ -29,6 +29,7 @@ Textos para aula:
 - *** Figueiredo, Vitor Fonseca. 2017. Voto e competição política na primeira república: o caso de Minas Gerais (1889-1930). 1st ed. EDITORA CRV. (Introdução e capitulo 1)
 
 - *** Ricci, Paolo, e Jaqueline Porto Zulini. 2014. “Partidos, Competição Política e Fraude Eleitoral: A Tônica das Eleições na Primeira República.” Dados 57(2): 443–479. 
+
 Textos complementares: 
 
 - Ricci, Paolo, e Jaqueline Porto Zulini. 2013. “Quem ganhou as eleições? :a validação dos resultados antes da criação da justiça eleitoral.” Revista de Sociologia e Política 21(45): 91–105.
