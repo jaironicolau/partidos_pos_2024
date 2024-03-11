@@ -8,7 +8,6 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 2:  Instituições representativas e quadro político na Primeira República
 
-
 - *** Viscardi, Claudia. 2019. O teatro das oligarquias: uma revisão da politica do café́ com leite. Belo Horizonte: Editora Fino Traço. (introdução, caps 1, 2, 3, 8 e Conclusão)
 
 - *** Santos, Wanderley Guilherme Dos. 2013. “O sistema oligárquico representativo da Primeira República.” Dados 56(1): 9–37. 
@@ -21,8 +20,6 @@ Os textos amrcados por *** são de leitura obrigatória
 
 
 ## Aula 3: Partidos e eleições na Primeira República 
-
-Textos para aula: 
 
 -  Nicolau, Jairo. 2012. Eleições no Brasil: do Império aos dias atuais. Rio de Janeiro: Zahar.  (capitulo sobre a Primeira República para conhecer as regras eleitorais)
 
