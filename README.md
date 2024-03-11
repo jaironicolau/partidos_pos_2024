@@ -12,7 +12,7 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - *** Santos, Wanderley Guilherme Dos. 2013. “O sistema oligárquico representativo da Primeira República.” Dados 56(1): 9–37. 
 
-### Textos Complementares: 
+#### Textos Complementares: 
 
 - Ferreira, Marieta de Moraes, e Surama Conde Sá Pinto. 2017. “Estado e oligarquias na Primeira República: um balanço das principais tendências historiográficas.” Tempo 23(3): 422–442.
 
@@ -29,7 +29,7 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - *** Ricci, Paolo, e Jaqueline Porto Zulini. 2014. “Partidos, Competição Política e Fraude Eleitoral: A Tônica das Eleições na Primeira República.” Dados 57(2): 443–479. 
 
-### Textos complementares: 
+#### Textos complementares: 
 
 - Ricci, Paolo, e Jaqueline Porto Zulini. 2013. “Quem ganhou as eleições? :a validação dos resultados antes da criação da justiça eleitoral.” Revista de Sociologia e Política 21(45): 91–105.
 
