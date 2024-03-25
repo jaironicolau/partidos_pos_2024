@@ -39,14 +39,14 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 4:  Instituições representativas e quadro político nos anos 1930
 
-- Karawejczyk, Mônica. 2013. “As Filhas de Eva querem votar: dos primórdios da questão à conquista do sufrágio feminino no Brasil (c.1850-1932).” Tese de Doutorado em História: UFRS.
+- ***  Karawejczyk, Mônica. 2013. “As Filhas de Eva querem votar: dos primórdios da questão à conquista do sufrágio feminino no Brasil (c.1850-1932).” Tese de Doutorado em História: UFRS. (introdução, capitulo 3, 6 e considerações finais).
 
-- Zulini, Jaqueline Porto, e Paolo Ricci. 2020. “O Código Eleitoral de 1932 e as Eleições da Era Vargas: Um Passo na Direção na Democracia?” Estudos Históricos (Rio de Janeiro) 33(71): 600–623.
+- *** Zulini, Jaqueline Porto, e Paolo Ricci. 2020. “O Código Eleitoral de 1932 e as Eleições da Era Vargas: Um Passo na Direção na Democracia?” Estudos Históricos (Rio de Janeiro) 33(71): 600–623.
 
-- Limongi, Fernando, Juliana de Souza Oliveira, e Stefanie Tomé Schmitt. 2019. “Sufrágio universal, mas... só para homens. O voto feminino no Brasil.” Revista de Sociologia e Política 27(70).
+- *** Limongi, Fernando, Juliana de Souza Oliveira, e Stefanie Tomé Schmitt. 2019. “Sufrágio universal, mas... só para homens. O voto feminino no Brasil.” Revista de Sociologia e Política 27(70).
 
 
-## Aula 6: Partidos e eleições nos anos 1930
+## Aula 5: Partidos e eleições nos anos 1930
 
 - Ricci, Paolo. 2022. “As Eleições Dos Anos 1930: Coordenação Pré-Eleitoral em Tempos de Voto Secreto.” Estudos Históricos (Rio de Janeiro) 35(75): 72–94.
 
