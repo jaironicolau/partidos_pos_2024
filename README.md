@@ -97,11 +97,11 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 11: Partidos na Nova República: organização e ideologia
 
-Rocha, Décio Vieira da. 2021. “Organização de novos partidos políticos: entre estratégias de cooptação e contestação.” Revista Brasileira de Ciência Política (35): e240108. 
+- Rocha, Décio Vieira da. 2021. “Organização de novos partidos políticos: entre estratégias de cooptação e contestação.” Revista Brasileira de Ciência Política (35): e240108. 
 
-Bolognesi, Bruno, Ednaldo Ribeiro, e Adriano Codato. 2022. “Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros.” Dados 66(2).
+- Bolognesi, Bruno, Ednaldo Ribeiro, e Adriano Codato. 2022. “Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros.” Dados 66(2).
 
-Ribeiro, Pedro Floriano. 2013. “Organização e poder nos partidos brasileiros: uma análise dos estatutos.” Revista Brasileira de Ciência Política (10): 225–265.
+- Ribeiro, Pedro Floriano. 2013. “Organização e poder nos partidos brasileiros: uma análise dos estatutos.” Revista Brasileira de Ciência Política (10): 225–265.
 
 
 ## Aula 12:  Partidos na Nova República: opinião pública
@@ -115,13 +115,13 @@ Ribeiro, Pedro Floriano. 2013. “Organização e poder nos partidos brasileiros
 
 ## Aula 13: Partidos na Nova República: o PT e PSOL
 
-Samuels, David J., e Cesar Zucco. 2018. Partisans, Antipartisans, and Nonpartisans: Voting Behavior in Brazil. 1st ed. Cambridge University Press.
+- Samuels, David J., e Cesar Zucco. 2018. Partisans, Antipartisans, and Nonpartisans: Voting Behavior in Brazil. 1st ed. Cambridge University Press.
 
-Amaral, Oswaldo E. do, e Timothy J. Power. 2016. “The PT at 35: Revisiting Scholarly Interpretations of the Brazilian Workers’ Party.” Journal of Latin American Studies 48(1): 147–171.
+- Amaral, Oswaldo E. do, e Timothy J. Power. 2016. “The PT at 35: Revisiting Scholarly Interpretations of the Brazilian Workers’ Party.” Journal of Latin American Studies 48(1): 147–171.
 
-Ribeiro, Pedro Floriano. 2014. “An Amphibian Party? Organisational Change and Adaptation in the Brazilian Workers’ Party, 1980–2012.” Journal of Latin American Studies 46(01): 87–119. 
+- Ribeiro, Pedro Floriano. 2014. “An Amphibian Party? Organisational Change and Adaptation in the Brazilian Workers’ Party, 1980–2012.” Journal of Latin American Studies 46(01): 87–119. 
 
-Gentil, Vinicius Miranda. 2018. “Um Lugar Ao Sol: O Partido Socialismo e Liberdade – PSOL – e Novos Arranjos Políticos Da Nova Esquerda”. Tese de Doutorado: Ciências Sociai
+- Gentil, Vinicius Miranda. 2018. “Um Lugar Ao Sol: O Partido Socialismo e Liberdade – PSOL – e Novos Arranjos Políticos Da Nova Esquerda”. Tese de Doutorado: Ciências Sociai
 Programa das Aulas
 
 
