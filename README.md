@@ -54,6 +54,10 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - Barbosa, Leonardo Martins. 2022. “A crise da Primeira República e o surgimento da oposição legítima no Brasil.” Estudos Históricos (Rio de Janeiro) 35(75): 95–114.
 
+## Aula 6: Integralismo: Partido ou movimento?
+
+- Gonçalvess, Leando Pereira, e Odilon Caldeira Neto. 2020. O Fascismo em Camisas Verdes: Do Integralismo ao Neointegralismo. Rio de Janeiro: FGV Editora.
+
 
 ## Aula 7:  Instituições representativas e quadro político na República de 1946
 
