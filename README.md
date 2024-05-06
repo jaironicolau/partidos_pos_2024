@@ -77,11 +77,13 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 9:  Partidos e eleições na República de 1946
 
-- Limongi, Fernando. “Fazendo Eleitores e Eleições: Mobilização Política e Democracia no Brasil Pós-Estado Novo”. Dados 58, nº 2 (2015): 371–400. 
+- *** Limongi, Fernando. “Fazendo Eleitores e Eleições: Mobilização Política e Democracia no Brasil Pós-Estado Novo”. Dados 58, nº 2 (2015): 371–400. 
 
-- Santos, Wanderley Guilherme Dos. 2003. O Cálculo do Conflito: Estabilidade e Crise na Política Brasileira. Belo Horizonte: Editora UFMG.
+- *** Lavarea, Antonio. A democracia nas Urnas: o processo partidário-eleitoral brasileiro (1945-64). Editora Reva, 1999.
 
-- Nicolau, Jairo. 2004. “Partidos na República de 1946: Velhas Teses, Novos Dados.” Dados 47(1): 85–129.
+- *** Nicolau, Jairo. 2004. “Partidos na República de 1946: Velhas Teses, Novos Dados.” Dados 47(1): 85–129.
+  
+-  Santos, Wanderley Guilherme Dos. 2003. O Cálculo do Conflito: Estabilidade e Crise na Política Brasileira. Belo Horizonte: Editora UFMG.
 
 
 ## Aula 10:  Instituições representativas e partidos na Ditadura
