@@ -90,7 +90,7 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - Nicolau, Jairo. 2012. Eleições no Brasil: do Império aos dias atuais. Rio de Janeiro: Zahar.
 
-- Kinzo, Maria D’Alva. 1988. Oposição e Autoritarismo: Gênese e Trajetória do MDB (1966-1979). São Paulo: Vértice.
+- *** Kinzo, Maria D’Alva. 1988. Oposição e Autoritarismo: Gênese e Trajetória do MDB (1966-1979). São Paulo: Vértice.
 
 - Grinberg, Lucia. 2009. Partido Político ou Bode Expiatório: um Estudo Sobre a Aliança Renovadora Nacional – Arena (1965-1979). 2009: Mauad.
 
@@ -99,20 +99,20 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 11: Partidos na Nova República: organização e ideologia
 
-- Rocha, Décio Vieira da. 2021. “Organização de novos partidos políticos: entre estratégias de cooptação e contestação.” Revista Brasileira de Ciência Política (35): e240108. 
+- *** Rocha, Décio Vieira da. 2021. “Organização de novos partidos políticos: entre estratégias de cooptação e contestação.” Revista Brasileira de Ciência Política (35): e240108. 
 
-- Bolognesi, Bruno, Ednaldo Ribeiro, e Adriano Codato. 2022. “Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros.” Dados 66(2).
+- ****  Bolognesi, Bruno, Ednaldo Ribeiro, e Adriano Codato. 2022. “Uma Nova Classificação Ideológica dos Partidos Políticos Brasileiros.” Dados 66(2).
 
-- Ribeiro, Pedro Floriano. 2013. “Organização e poder nos partidos brasileiros: uma análise dos estatutos.” Revista Brasileira de Ciência Política (10): 225–265.
+- *** Ribeiro, Pedro Floriano. 2013. “Organização e poder nos partidos brasileiros: uma análise dos estatutos.” Revista Brasileira de Ciência Política (10): 225–265.
 
 
 ## Aula 12:  Partidos na Nova República: opinião pública
 
-- Meneguello, Rachel, and. 2022. “Para onde foram os partidos na opinião pública? As percepções sobre os partidos políticos na redemocratização no Brasil.” Estudos Avançados 36(106): 75–75. 
+- *** Meneguello, Rachel, and. 2022. “Para onde foram os partidos na opinião pública? As percepções sobre os partidos políticos na redemocratização no Brasil.” Estudos Avançados 36(106): 75–75. 
 
 - Almeida, Renan da Silva Rodrigues, e Carlos Augusto Mello Machado. 2024. “Sentidos do Partidarismo: Construindo uma Tipologia Multidimensional de Eleitores.” Dados 67(3).
 
-- Jaeger, Rafaella Lopes Martins. 2023. “Comportamento e atitudes dos eleitores apartidários nas eleições presidenciais: o caso brasileiro.” Terceiro Milênio: Revista Crítica de Sociologia e Política 20(1): 10–33.
+- *** Jaeger, Rafaella Lopes Martins. 2023. “Comportamento e atitudes dos eleitores apartidários nas eleições presidenciais: o caso brasileiro.” Terceiro Milênio: Revista Crítica de Sociologia e Política 20(1): 10–33.
 
 
 ## Aula 13: Partidos na Nova República: o PT e PSOL
@@ -123,8 +123,10 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - Ribeiro, Pedro Floriano. 2014. “An Amphibian Party? Organisational Change and Adaptation in the Brazilian Workers’ Party, 1980–2012.” Journal of Latin American Studies 46(01): 87–119. 
 
-- Gentil, Vinicius Miranda. 2018. “Um Lugar Ao Sol: O Partido Socialismo e Liberdade – PSOL – e Novos Arranjos Políticos Da Nova Esquerda”. Tese de Doutorado: Ciências Sociai
-Programa das Aulas
+- *** Gentil, Vinicius Miranda. 2018. “Um Lugar Ao Sol: O Partido Socialismo e Liberdade – PSOL – e Novos Arranjos Políticos Da Nova Esquerda”. Tese de Doutorado: Ciências Sociais , UERJ
+
+- *** Barros, Celso Rocha Barros. PT: Uma história. Cia das Letras, 2022.
+
 
 
 
