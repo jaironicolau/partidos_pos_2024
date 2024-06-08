@@ -117,7 +117,7 @@ Os textos amrcados por *** são de leitura obrigatória
 
 ## Aula 13: Partidos na Nova República: o PT e PSOL
 
-- Samuels, David J., e Cesar Zucco. 2018. Partisans, Antipartisans, and Nonpartisans: Voting Behavior in Brazil. 1st ed. Cambridge University Press.
+- Samuels, David J., e Cesar Zucco. 2018. Partisans, Antipartisans, and Nonpartisans: Voting Behavior in Brazil. 1st ed. Cambridge University Press. Capitulos 1, 2, 3 e 7
 
 - Amaral, Oswaldo E. do, e Timothy J. Power. 2016. “The PT at 35: Revisiting Scholarly Interpretations of the Brazilian Workers’ Party.” Journal of Latin American Studies 48(1): 147–171.
 
@@ -125,7 +125,7 @@ Os textos amrcados por *** são de leitura obrigatória
 
 - *** Gentil, Vinicius Miranda. 2018. “Um Lugar Ao Sol: O Partido Socialismo e Liberdade – PSOL – e Novos Arranjos Políticos Da Nova Esquerda”. Tese de Doutorado: Ciências Sociais , UERJ
 
-- *** Barros, Celso Rocha Barros. PT: Uma história. Cia das Letras, 2022.
+- *** Barros, Celso Rocha Barros. PT: Uma história. Cia das Letras, 2022. capitulos 1 a 6
 
 
 
